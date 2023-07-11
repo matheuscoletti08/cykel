@@ -35,3 +35,6 @@
 @import "./bicicleta/bicicleta.css";
 
 
+html{
+    scroll-behavior: smooth;
+}
